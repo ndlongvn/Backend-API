@@ -1,0 +1,24 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+  "author":"longnd",
+  "description": "A simple Node.js app using Express 4",
+  "keywords": [
+      "node",
+      "express",
+      "static",
+      "freecodecamp"
+  ],
+  "license": "MIT",
+  "version": "0.0.1"
+}
